@@ -1,0 +1,64 @@
+{
+  "QLSV": [
+    {
+      "date": "25-07-2003",
+      "name": "Nguyễn Văn A",
+      "tenLop": "CP17310",
+      "id": "2"
+    },
+    {
+      "date": "25-07-2003",
+      "name": "Hồ Văn B",
+      "tenLop": "CP17306",
+      "id": "qMyxA69"
+    },
+    {
+      "date": "25-07-2003",
+      "name": "Hoàng Văn Hệ",
+      "tenLop": "CP17306",
+      "id": "E8mxld8"
+    },
+    {
+      "tenLop": "ABCD",
+      "name": "Vũ Ngọc A",
+      "date": "20-01-2003",
+      "id": "ZYpF1ww"
+    }
+  ],
+  "CLASS": [
+    {
+      "id": "1",
+      "maLop": "MOB1012",
+      "tenLop": "CP17306"
+    },
+    {
+      "maLop": "MOB1012",
+      "tenLop": "CP17310",
+      "id": "2"
+    },
+    {
+      "maLop": "MOB1013",
+      "tenLop": "CP17300",
+      "id": "7hEDu0B"
+    },
+    {
+      "maLop": "MOB1013",
+      "tenLop": "ABCD",
+      "id": "PL8l3JI"
+    }
+  ],
+  "IMAGE": [
+    {
+      "id": "1",
+      "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png"
+    },
+    {
+      "id": "2",
+      "uri": "https://www.w3schools.com/css/img_forest.jpg"
+    },
+    {
+      "id": "3",
+      "uri": "https://www.w3schools.com/css/img_forest.jpg"
+    }
+  ]
+}
